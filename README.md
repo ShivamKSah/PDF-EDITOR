@@ -4,8 +4,7 @@ A powerful and intuitive client-side web application built with React that allow
 
 ## 🚀 Live Demo
 
-🌐 **Deployed Link**: [https://your-project-name.netlify.app](https://your-project-name.netlify.app)  
-📁 **GitLab Repository**: [https://gitlab.com/your-username/pdf-editor-app](https://gitlab.com/your-username/pdf-editor-app)
+Check out the live version of the portfolio [[here](https://pdf-editor-shivam-kumar-sahs-projects.vercel.app/)].
 
 ---
 
