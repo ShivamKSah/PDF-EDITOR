@@ -4,7 +4,7 @@ A powerful and intuitive client-side web application built with React that allow
 
 ## 🚀 Live Demo
 
-Check out the live version of the portfolio [(https://pdf-editor-shivam-kumar-sahs-projects.vercel.app/)].
+Check out the live version of the portfolio [[PDF Editor](https://pdf-editor-shivam-kumar-sahs-projects.vercel.app/)].
 
 ---
 
